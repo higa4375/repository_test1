@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    test.phpです（20230927_aブランチ）
+    test.phpです（20230927_bブランチ）
     <?php
         echo 'hello world!';
     ?>
